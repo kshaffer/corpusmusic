@@ -12,8 +12,8 @@ Please take the following survey before the course begins, so I can plan accordi
 
 ## Administrative ##
 
-Syllabus  
-Policies  
+[Syllabus](syllabus.html)  
+[Policies](policies.html)  
 
 
 ## Online resources ##
