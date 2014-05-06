@@ -6,7 +6,7 @@ author: Kris Shaffer
 
 # {{ page.title }} #
 
-### General course description ###
+### General course information ###
 
 Course title: Harmony and Form in Pop/Rock Music: A Computational Approach  
 Course number: MUSC 5151, CSCI 4830, CSCI 7000  
@@ -20,16 +20,18 @@ Course website: [corpusmusic.shaffermusic.com](http://corpusmusic.shaffermusic.c
 Twitter hashtag: [#corpusmusic](https://twitter.com/search?f=realtime&q=%23corpusmusic&src=typd)  
 GitHub organzation: [corpusmusic](https://github.com/orgs/corpusmusic)
 
-### Course materials ###
-
-#### Required ####
+### Required materials ###
 
 - An account for [Spotify](http://www.spotify.com) (a free account should be sufficient for this course).  
 - A free [Google Drive](http://drive.google.com) account *using your CU Identikey*.  
 - A free [Twitter](http://twitter.com) account (feel free to use an existing account, or to create a new account for this class).  
 - A free [GitHub](http://github.com) account.
 
-All other required class materials will be posted or linked to on the course Google Plus site.
+All other required class materials will be posted or linked to on the course website or (if copyright demands) posted in the class shared folder in Google Drive.
+
+### Course contracts ###
+
+All assessment will take place in reference to individual course contracts. More information to be provided later.
 
 ### Final exam ###
 
