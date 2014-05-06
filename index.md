@@ -14,12 +14,11 @@ Please take the following survey before the course begins, so I can plan accordi
 
 [Syllabus](syllabus.html)  
 [Policies](policies.html)  
+[Schedule, readings, activities](schedule.html)
 
 
 ## Online resources ##
 
 [Musicianship Resources](http://kris.shaffermusic.com/musicianship) – online "textbook" for music theory and aural skills.  
 [Spotify](http://www.spotify.com).  
-
-## Assignments ##
 
