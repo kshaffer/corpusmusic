@@ -1,95 +1,105 @@
 ---
 layout: post
-title: Schedule, readings, activities
+title: Schedule
 author: Kris Shaffer
 ---
 
 # {{ page.title }} #
 
-## Schedule ##
+*Please note that this schedule is suject to change. (And open to pull requests.) Class progress through early materials, and the possibility of "guests" (via Skype and/or Twitter) may warrant a change in the schedule or assigned work.*
 
-#### Day 1: May 12 ####
+## Day 1: Monday May 12 ##
 
-Prep: fill out course survey
+#### Prep ####
 
-Introductions  
+fill out course survey
+
+#### In class ####
+
+Introductions, goals  
 Twitter and Google Drive setup  
+Collaborative note-taking
 [What Is Music Theory?](http://www.hybridpedagogy.com/page-two/music-theory/)  
 Major and minor scales  
 Triads in pop/rock music  
-*Videos: piano harmony; guitar harmony*  
-Collaborative note-taking
+Ted Underwood, ["How Not to Do Things With Words"](http://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/)
 
-#### Day 1: Monday, May 12 ####
+## Day 2: Tuesday, May 13 ##
 
+#### Prep ####
 
+Read or watch the following. Tweet questions and discussions about the materials. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on Google Doc response to Gibbs/Cohen and Stommel.
 
-#### Day 2: Tuesday, May 13 ####
+- [videos on scales & chords]  
+- Gibbs/Cohen: ["A Conversation With Data: Prospecting Victorian Words and Ideas."](http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html)  
+- Jesse Stommel: ["The Digital Humanities Is About Breaking Stuff"](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/)
 
+#### In class ####
 
-
-#### Day 3: Wednesday, May 14 ####
-
-
-
-#### Day 4: Thursday, May 15 ####
-
-
-
-#### Day 5: Friday, May 16 ####
+Scales & Triads  
+Harmonic schemata (blues, doo-wop, VI–IV-I-V, etc.)  
+Digital + Humanities = Digital Humanities? (Gibbs/Cohen, Stommel)  
+DH and music theory
 
 
+## Day 3: Wednesday, May 14 ##
 
-#### Day 6: Monday, May 19 ####
+#### Prep ####
 
+#### In class ####
 
-
-#### Day 7: Tuesday, May 20 ####
-
-
-
-#### Day 8: Wednesday, May 21 ####
-
+Review of scales and triads  
+Introduction to pop/rock form and Variations Audio Timeliner  
+de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
 
-#### Day 9: Thursday, May 22 ####
+## Day 4: Thursday, May 15 ##
+
+#### Prep ####
+
+#### In class ####
 
 
+## Day 5: Friday, May 16 ##
 
-#### Day 10: Friday, May 23 ####
+#### Prep ####
 
-
-
-#### Day 11: Tuesday, May 27 ####
-
+#### In class ####
 
 
-#### Day 12: Wednesday, May 28 ####
+## Day 6: Monday, May 19 ##
 
 
 
-#### Day 13: Thursday, May 29 ####
+## Day 7: Tuesday, May 20 ##
 
 
 
-#### Day 14: Friday, May 30 ####
+## Day 8: Wednesday, May 21 ##
 
 
 
+## Day 9: Thursday, May 22 ##
 
 
 
-## Readings ##
+## Day 10: Friday, May 23 ##
 
-Meyer, Leonard. 1997. [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) Chicago: University of Chicago Press.
 
-Shaffer, Kris. 2014. ["What Is Music Theory?"](http://www.hybridpedagogy.com/page-two/music-theory/) In *Hybrid Pedagogy*, "Page Two" blog. March 1, 2014.
 
-Shaffer, Kris. 2013. ["Harmonic syntax in corpus studies."](http://kris.shaffermusic.com/2013/01/harmonic-syntax-in-corpus-studies/) January 12, 2013.
+## Day 11: Tuesday, May 27 ##
 
-Shaffer, Kris. 2012. ["Averages, clusters, and hidden patterns."](http://kris.shaffermusic.com/2012/07/averages-clusters-and-hidden-patterns/) July 27, 2012.
 
-De Clercq, Trevor and David Temperley. 2011. ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X) In *Popular Music* 30/1, pp. 47–70.
 
-Shaffer, Kris. ["Introduction to musical functions."](http://kris.shaffermusic.com/musicianship/functions.html)
+## Day 12: Wednesday, May 28 ##
+
+
+
+## Day 13: Thursday, May 29 ##
+
+
+
+## Day 14: Friday, May 30 ##
+
+
 

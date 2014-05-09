@@ -14,7 +14,8 @@ Please take the following survey before the course begins, so I can plan accordi
 
 [Syllabus](syllabus.html)  
 [Policies](policies.html)  
-[Schedule, readings, activities](schedule.html)
+[Schedule](schedule.html)  
+[Readings and resources](readings.html)
 
 
 ## Online resources ##
