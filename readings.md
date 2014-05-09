@@ -9,6 +9,7 @@ author: Kris Shaffer
 ## Twitter accounts of authors & researchers ##
 
 Dan Cohen: [@dancohen](http://twitter.com/dancohen)  
+Brian Croxall: [@briancroxall](http://twitter.com/briancroxall)  
 Heather Froehlich: [@heatherfro](http://twitter.com/heatherfro)  
 Dan Shanahan: [@danielshanahan](http://twitter.com/danielshanahan)  
 Jesse Stommel: [@Jessifer](http://twitter.com/jessifer)  

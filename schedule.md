@@ -32,7 +32,8 @@ Read or watch the following. Tweet questions and discussions about the materials
 
 - [videos on scales & chords]  
 - Gibbs/Cohen: ["A Conversation With Data: Prospecting Victorian Words and Ideas."](http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html)  
-- Jesse Stommel: ["The Digital Humanities Is About Breaking Stuff"](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/)
+- Jesse Stommel: ["The Digital Humanities Is About Breaking Stuff"](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/)  
+- Meyer?
 
 #### In class ####
 
