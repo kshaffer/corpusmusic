@@ -18,7 +18,7 @@ fill out course survey
 
 Introductions, goals  
 Twitter and Google Drive setup  
-Collaborative note-taking
+Collaborative note-taking  
 [What Is Music Theory?](http://www.hybridpedagogy.com/page-two/music-theory/)  
 Major and minor scales  
 Triads in pop/rock music  
