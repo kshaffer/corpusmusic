@@ -4,8 +4,8 @@ title: Harmony and Form in Pop/Rock Music&#58; A Computational Approach, CU–Bo
 author: Kris Shaffer
 ---
 
-<div style="text-align: center; font-size: 1.25em">
-<a href="./syllabus.html">Syllabus</a> | <a href="./policies.html">Policies</a> | <a href="./schedule.html">Schedule</a> | <a href="./readings.html">Readings and resources</a>
+<div style="text-align: center; font-size: 1.25em; font-variant: small-caps">
+<a href="./syllabus.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./schedule.html">schedule</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./readings.html">readings and resources</a>
 </div>
 
 *Harmony and Form in Pop/Rock Music* is a hybrid (in-person and online), interdisciplinary, vertically integrated (faculty, graduate students, and undergraduate students working together), project-based course. 
