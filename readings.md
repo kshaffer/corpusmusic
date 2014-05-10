@@ -40,3 +40,15 @@ Shaffer, Kris. 2014. ["What Is Music Theory?"](http://www.hybridpedagogy.com/pag
 Stommel, Jesse. 2013. ["The Digital Humanities Is About Breaking Stuff."](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/) In *Hybrid Pedagogy*. September 2, 2013.
 
 Underwood, Ted. 2012. ["How Not to Do Things With Words."](http://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/) Personal blog. August 25, 2012.
+
+## Videos ##
+
+"Major scales" (video link forthcoming)  
+
+"Minor scales" (video link forthcoming)  
+
+["Triads"](https://vimeo.com/94521923)  
+
+["Analyzing Triads"](https://vimeo.com/94723962)  
+
+["Guitar Harmony"](https://vimeo.com/94527744)  

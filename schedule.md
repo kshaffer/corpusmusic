@@ -30,9 +30,13 @@ Ted Underwood, ["How Not to Do Things With Words"](http://tedunderwood.com/2012/
 
 #### Prep ####
 
-Read or watch the following. Tweet questions and discussions about the materials. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on Google Doc response to Gibbs/Cohen and Stommel.
+Read or watch the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on Google Doc response to Gibbs/Cohen and Stommel.
 
-- [videos on scales & chords]  
+- "Major scales" (video link forthcoming)  
+- "Minor scales" (video link forthcoming)  
+- ["Triads"](https://vimeo.com/94521923)  
+- ["Analyzing Triads"](https://vimeo.com/94723962)  
+- ["Guitar Harmony"](https://vimeo.com/94527744)  
 - Gibbs/Cohen: ["A Conversation With Data: Prospecting Victorian Words and Ideas."](http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html)  
 - Jesse Stommel: ["The Digital Humanities Is About Breaking Stuff"](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/)  
 
