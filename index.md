@@ -4,7 +4,7 @@ title: Harmony and Form in Pop/Rock Music&#58; A Computational Approach, CU–Bo
 author: Kris Shaffer
 ---
 
-<div style="text-align: center">
+<div style="text-align: center; font-size: 1.25em">
 <a href="./syllabus.html">Syllabus</a> | <a href="./policies.html">Policies</a> | <a href="./schedule.html">Schedule</a> | <a href="./readings.html">Readings and resources</a>
 </div>
 
