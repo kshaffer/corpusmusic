@@ -12,7 +12,7 @@ Course title: Harmony and Form in Pop/Rock Music: A Computational Approach
 Course number: MUSC 5151, CSCI 4830, CSCI 7000  
 Semester: Maymester 2013  
 Meeting time: MTWRF 9:00am–12:00pm  
-Meeting location: MUS NB49  
+Meeting location: MUS N1B49  
 Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
 Office: MUS N138  
 Office hours: by appointment  

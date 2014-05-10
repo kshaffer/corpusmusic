@@ -46,16 +46,20 @@ DH and music theory
 
 #### Prep ####
 
-- read Meyer
+Read the following. Tweet questions and discussions about the materials. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on Google Doc response to Meyer and de Clercq/Temperley.
+
+- Leonard Meyer, [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) (A scan of the relevant passage from Chapter 1 is in the class shared folder on Google Drive.)  
+- Trevor de Clercq and David Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
 #### In class ####
 
 Review of scales and triads  
 Introduction to pop/rock form and Variations Audio Timeliner  
-Meyer
+Musical style  
 de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
 
+<!--
 ## Day 4: Thursday, May 15 ##
 
 #### Prep ####
@@ -106,3 +110,4 @@ de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10
 
 
 
+-->
