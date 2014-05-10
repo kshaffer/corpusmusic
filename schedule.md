@@ -8,6 +8,7 @@ author: Kris Shaffer
 
 *Please note that this schedule is suject to change. (And open to pull requests.) Class progress through early materials, and the possibility of "guests" (via Skype and/or Twitter) may warrant a change in the schedule or assigned work.*
 
+<br/>
 ## Day 1: Monday May 12 ##
 
 #### Prep ####
@@ -24,7 +25,7 @@ Major and minor scales
 Triads in pop/rock music  
 Ted Underwood, ["How Not to Do Things With Words"](http://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/)
 
-<br/><br/>
+<br/>
 ## Day 2: Tuesday, May 13 ##
 
 #### Prep ####
@@ -42,7 +43,7 @@ Harmonic schemata (blues, doo-wop, VI–IV-I-V, etc.)
 Digital + Humanities = Digital Humanities? (Gibbs/Cohen, Stommel)  
 DH and music theory
 
-
+<br/>
 ## Day 3: Wednesday, May 14 ##
 
 #### Prep ####
