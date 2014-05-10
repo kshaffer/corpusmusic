@@ -24,6 +24,7 @@ Major and minor scales
 Triads in pop/rock music  
 Ted Underwood, ["How Not to Do Things With Words"](http://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/)
 
+<br/><br/>
 ## Day 2: Tuesday, May 13 ##
 
 #### Prep ####
