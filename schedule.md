@@ -33,7 +33,6 @@ Read or watch the following. Tweet questions and discussions about the materials
 - [videos on scales & chords]  
 - Gibbs/Cohen: ["A Conversation With Data: Prospecting Victorian Words and Ideas."](http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html)  
 - Jesse Stommel: ["The Digital Humanities Is About Breaking Stuff"](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/)  
-- Meyer?
 
 #### In class ####
 
@@ -47,10 +46,13 @@ DH and music theory
 
 #### Prep ####
 
+- read Meyer
+
 #### In class ####
 
 Review of scales and triads  
 Introduction to pop/rock form and Variations Audio Timeliner  
+Meyer
 de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
 
