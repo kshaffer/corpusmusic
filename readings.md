@@ -6,14 +6,12 @@ author: Kris Shaffer
 
 # {{ page.title }} #
 
-## Twitter accounts of authors & researchers ##
+## Twitter accounts of authors ##
 
 Dan Cohen: [@dancohen](http://twitter.com/dancohen)  
-Brian Croxall: [@briancroxall](http://twitter.com/briancroxall)  
-Heather Froehlich: [@heatherfro](http://twitter.com/heatherfro)  
-Dan Shanahan: [@danielshanahan](http://twitter.com/danielshanahan)  
 Jesse Stommel: [@Jessifer](http://twitter.com/jessifer)  
 Ted Underwood: [@Ted_Underwood](http://twitter.com/ted_underwood)
+
 
 ## Resources ##
 
@@ -21,6 +19,7 @@ Ted Underwood: [@Ted_Underwood](http://twitter.com/ted_underwood)
 ["A Corpus Study of Rock Music"](http://theory.esm.rochester.edu/rock_corpus/) - David Temperley and Trevor de Clercq's data and programs for analyzing the harmonic progressions in a corpus of 200 songs from Rolling Stone magazine's "Greatest [Rock] Songs of All Time."  
 [Musicianship Resources](http://kris.shaffermusic.com/musicianship) – an online "textbook" for music theory and aural skills.  
 [Spotify](http://www.spotify.com).  
+
 
 ## Readings ##
 
