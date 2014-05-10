@@ -5,7 +5,7 @@ author: Kris Shaffer
 ---
 
 <div style="text-align: center; font-size: 1.75em; font-variant: small-caps">
-<a href="./syllabus.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./schedule.html">schedule</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./readings.html">readings and resources</a>
+<a href="./syllabus.html">syllabus</a>&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;<a href="./schedule.html">schedule</a>&nbsp;&nbsp;&nbsp;<a href="./readings.html">readings and resources</a>
 </div>
 
 *Harmony and Form in Pop/Rock Music* is a hybrid (in-person and online), interdisciplinary, vertically integrated (faculty, graduate students, and undergraduate students working together), project-based course. 
