@@ -30,10 +30,10 @@ Ted Underwood, ["How Not to Do Things With Words"](http://tedunderwood.com/2012/
 
 #### Prep ####
 
-Read or watch the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on Google Doc response to Gibbs/Cohen and Stommel.
+Read or watch the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Gibbs/Cohen and Stommel.
 
-- "Major scales" (video link forthcoming)  
-- "Minor scales" (video link forthcoming)  
+- ["Major scales and keys"](https://vimeo.com/94802632)  
+- ["Minor scales and keys"](https://vimeo.com/94803688)  
 - ["Triads"](https://vimeo.com/94521923)  
 - ["Analyzing Triads"](https://vimeo.com/94723962)  
 - ["Guitar Harmony"](https://vimeo.com/94527744)  
@@ -52,7 +52,7 @@ DH and music theory
 
 #### Prep ####
 
-Read the following. Tweet questions and discussions about the materials. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on Google Doc response to Meyer and de Clercq/Temperley.
+Read the following. Tweet questions and discussions about the materials. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Meyer and de Clercq/Temperley.
 
 - Leonard Meyer, [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) (A scan of the relevant passage from Chapter 1 is in the class shared folder on Google Drive.)  
 - Trevor de Clercq and David Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)

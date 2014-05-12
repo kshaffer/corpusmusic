@@ -43,9 +43,9 @@ Underwood, Ted. 2012. ["How Not to Do Things With Words."](http://tedunderwood.c
 
 ## Videos ##
 
-"Major scales" (video link forthcoming)  
+["Major scales and keys"](https://vimeo.com/94802632)
 
-"Minor scales" (video link forthcoming)  
+["Minor scales and keys"](https://vimeo.com/94803688)
 
 ["Triads"](https://vimeo.com/94521923)  
 
