@@ -40,9 +40,8 @@ Read or watch the following. Tweet questions and discussions about the materials
 #### In class ####
 
 Scales & Triads  
-Harmonic schemata (blues, doo-wop, VI–IV-I-V, etc.)  
 Digital + Humanities = Digital Humanities? (Gibbs/Cohen, Stommel)  
-DH and music theory
+Creating a set of guidelines (a manifesto?) for computational musicology research
 
 <br/>
 ## Day 3: Wednesday, May 14 ##
@@ -60,7 +59,7 @@ Read or watch the following. Tweet questions and discussions about the materials
 #### In class ####
 
 Review of scales and triads  
-Introduction to pop/rock form and Variations Audio Timeliner  
+Harmonic schemata (blues, doo-wop, VI–IV-I-V, etc.)  
 Musical style  
 de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
@@ -71,6 +70,8 @@ de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10
 #### Prep ####
 
 #### In class ####
+
+Introduction to pop/rock form and Variations Audio Timeliner  
 
 
 ## Day 5: Friday, May 16 ##

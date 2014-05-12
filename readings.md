@@ -42,6 +42,9 @@ Stommel, Jesse. 2013. ["The Digital Humanities Is About Breaking Stuff."](http:/
 
 Underwood, Ted. 2012. ["How Not to Do Things With Words."](http://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/) Personal blog. August 25, 2012.
 
+Yim, Gary. 2012. ["Affordant Harmony in Popular Music:
+Do Physical Attributes of the Guitar Influence Chord Sequences?"](http://icmpc-escom2012.web.auth.gr/sites/default/files/papers/1156_Proc.pdf) In *Proceedings of the 12th International Conference on Music Perception and Cognition and the 8th Triennial Conference of the European Society fo the Cognitive Sciences of Music., July 23–28, 2012.
+
 ## Videos ##
 
 ["Major scales and keys"](https://vimeo.com/94802632)
