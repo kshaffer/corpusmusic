@@ -15,6 +15,7 @@ Ted Underwood: [@Ted_Underwood](http://twitter.com/ted_underwood)
 
 ## Resources ##
 
+[Class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing)  
 [The McGill Billboard Project](http://ddmal.music.mcgill.ca/billboard) - a large data set of harmonic annotations of songs from several decades of the Billboard Top 100 list.  
 ["A Corpus Study of Rock Music"](http://theory.esm.rochester.edu/rock_corpus/) - David Temperley and Trevor de Clercq's data and programs for analyzing the harmonic progressions in a corpus of 200 songs from Rolling Stone magazine's "Greatest [Rock] Songs of All Time."  
 [Musicianship Resources](http://kris.shaffermusic.com/musicianship) – an online "textbook" for music theory and aural skills.  
