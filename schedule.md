@@ -44,11 +44,13 @@ Digital + Humanities = Digital Humanities? (Gibbs/Cohen, Stommel)
 Creating a set of guidelines (a manifesto?) for computational musicology research
 
 <br/>
-## Day 3: Wednesday, May 14 ##
+## Day 3: Wednesday, May 14 (UPDATED) ##
 
 #### Prep ####
 
-Read or watch the following. Tweet questions and discussions about the materials. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Meyer and de Clercq/Temperley.
+First, leave one or two comments or ideas in the [collaborative methods document](https://docs.google.com/a/colorado.edu/document/d/1gxQK0GIpb2mAKGkXQOjuG_WmR5MaeurEAd5dgsZxD6w/edit) (must be signed in with CU Google account to view) based on the first two days' readings.
+
+Then, read or watch the following. Tweet questions and discussions about the materials. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Meyer and de Clercq/Temperley.
 
 - ["Triads"](https://vimeo.com/94521923)  
 - ["Analyzing Triads"](https://vimeo.com/94723962)  
