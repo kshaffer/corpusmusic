@@ -64,7 +64,7 @@ Walk through pop/rock harmony resource
 Harmonic schemata (blues, doo-wop, VI–IV-I-V, etc.)  
 de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
-
+<br/>
 ## Day 4: Thursday, May 15 ##
 
 #### Prep ####
@@ -84,6 +84,7 @@ Discuss Foucault & implications for computational musicology
 Critique de Clercq/Temperley in light of Foucault
 
 <!--
+<br/>
 ## Day 5: Friday, May 16 ##
 
 #### Prep ####
