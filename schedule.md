@@ -50,38 +50,54 @@ Creating a set of guidelines (a manifesto?) for computational musicology researc
 
 First, leave one or two comments or ideas in the [collaborative methods document](https://docs.google.com/a/colorado.edu/document/d/1gxQK0GIpb2mAKGkXQOjuG_WmR5MaeurEAd5dgsZxD6w/edit) (must be signed in with CU Google account to view) based on the first two days' readings.
 
-Then, read or watch the following. Tweet questions and discussions about the materials. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Meyer and de Clercq/Temperley.
+Then, read or watch the following. Tweet questions and discussions about the materials. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to de Clercq/Temperley.
 
 - ["Triads"](https://vimeo.com/94521923)  
 - ["Analyzing Triads"](https://vimeo.com/94723962)  
 - ["Guitar Harmony"](https://vimeo.com/94527744)  
-- Leonard Meyer, [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) (A scan of the relevant passage from Chapter 1 is in the class shared folder on Google Drive.)  
 - Trevor de Clercq and David Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
 #### In class ####
 
 Review of scales and triads  
+Walk through pop/rock harmony resource  
 Harmonic schemata (blues, doo-wop, VI–IV-I-V, etc.)  
-Musical style  
 de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
 
-<!--
 ## Day 4: Thursday, May 15 ##
 
 #### Prep ####
 
+Read the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Foucault.
+
+- Foucault, *The Archaeology of Knowledge*, Chapter 1, "The Unities of Discourse" (pp. 21–30). (A scan of the relevant passage from Chapter 1 is in the class shared folder on Google Drive.)   
+- Leonard Meyer, [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) (A scan of the relevant passage from Chapter 1 is in the class shared folder on Google Drive.)  
+- Shaffer, ["Harmony in pop/rock music"](http://kris.shaffermusic.com/musicianship/popRockHarmony.html)  
+- Shaffer, ["Introduction to musical functions"](http://kris.shaffermusic.com/musicianship/functions.html)  
+
+
 #### In class ####
 
 Introduction to pop/rock form and Variations Audio Timeliner  
+Discuss Foucault & implications for computational musicology  
+Critique de Clercq/Temperley in light of Foucault
 
-
+<!--
 ## Day 5: Friday, May 16 ##
 
 #### Prep ####
 
+Read or watch the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Foucault.
+
+- McGill something  
+- review de Clercq/Temperley  
+
 #### In class ####
 
+Discussion with Trevor de Clercq (via Skype)  
+Discuss McGill Billboard Project  
+Start thinking about collaborative project
 
 ## Day 6: Monday, May 19 ##
 

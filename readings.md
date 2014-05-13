@@ -26,9 +26,13 @@ Ted Underwood: [@Ted_Underwood](http://twitter.com/ted_underwood)
 
 De Clercq, Trevor and David Temperley. 2011. ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X) In *Popular Music* 30/1, pp. 47–70.
 
+Foucault, Michel. 1972. *The Archaeology of Knowledge.* New York: Pantheon Books.
+
 Gibbs, Frederick W. and Daniel J. Cohen. 2011. ["A Conversation With Data: Prospecting Victorian Words and Ideas."](http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html) In *Victorian Studies* 54/1 (Autumn 2011).
 
 Meyer, Leonard. 1997. [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) Chicago: University of Chicago Press.
+
+Shaffer, Kris. ["Harmony in pop/rock music"](http://kris.shaffermusic.com/musicianship/popRockHarmony.html)  
 
 Shaffer, Kris. ["Introduction to musical functions."](http://kris.shaffermusic.com/musicianship/functions.html)
 
