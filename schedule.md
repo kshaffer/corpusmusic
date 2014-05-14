@@ -80,8 +80,9 @@ Read the following. Tweet questions and discussions about the materials with the
 #### In class ####
 
 Introduction to pop/rock form and Variations Audio Timeliner  
+Discuss Meyer's definition of style  
 Discuss Foucault & implications for computational musicology  
-Critique de Clercq/Temperley in light of Foucault
+Compare Meyer & Foucault, and critique de Clercq/Temperley in light of them
 
 <!--
 <br/>
@@ -89,9 +90,13 @@ Critique de Clercq/Temperley in light of Foucault
 
 #### Prep ####
 
-Read or watch the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. (Please see [Readings and resources](readings.html) page for Twitter handles of authors.) Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Foucault.
+First, come up with some questions or comments you have for our discussion with Trevor de Clercq.
 
-- McGill something  
+Then, read or watch the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Burgoyne.
+
+- video on verse-chorus form (link forthcoming)  
+- video on AABA form (link forthcoming)  
+- Burgoyne (link forthcoming)    
 - review de Clercq/Temperley  
 
 #### In class ####
