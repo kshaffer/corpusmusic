@@ -69,7 +69,7 @@ de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10
 
 #### Prep ####
 
-Read the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Foucault.
+Read the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Foucault and Meyer.
 
 - Foucault, *The Archaeology of Knowledge*, Chapter 1, "The Unities of Discourse" (pp. 21–30). (A scan of the relevant passage from Chapter 1 is in the class shared folder on Google Drive.)   
 - Leonard Meyer, [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) (A scan of the relevant passage from Chapter 1 is in the class shared folder on Google Drive.)  
