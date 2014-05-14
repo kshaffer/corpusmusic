@@ -84,7 +84,6 @@ Discuss Meyer's definition of style
 Discuss Foucault & implications for computational musicology  
 Compare Meyer & Foucault, and critique de Clercq/Temperley in light of them
 
-<!--
 <br/>
 ## Day 5: Friday, May 16 ##
 
@@ -92,23 +91,30 @@ Compare Meyer & Foucault, and critique de Clercq/Temperley in light of them
 
 First, come up with some questions or comments you have for our discussion with Trevor de Clercq.
 
-Then, read or watch the following. Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing) to Burgoyne.
+Then, read Christopher White's gloss on hidden Markov modeling in music studies (link forthcoming). Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing).
 
-- video on verse-chorus form (link forthcoming)  
-- video on AABA form (link forthcoming)  
-- Burgoyne (link forthcoming)    
-- review de Clercq/Temperley  
 
 #### In class ####
 
 Discussion with Trevor de Clercq (via Skype)  
-Discuss McGill Billboard Project  
+Discussion with Chris White (via Skype)  
 Start thinking about collaborative project
 
+<br/>
 ## Day 6: Monday, May 19 ##
 
+#### Prep ####
 
+Read Chapters 4–5 of Ashley Burgoyne's dissertation (exact excerpt & link TBA). Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing).
 
+Then come up with some ideas for our collaborative group project based on this reading and our previous readings and discussions.    
+
+#### In-class ####
+
+Discuss Burgoyne  
+Collaborate on project planning
+
+<!--
 ## Day 7: Tuesday, May 20 ##
 
 
