@@ -32,6 +32,8 @@ Foucault, Michel. 1972. *The Archaeology of Knowledge.* New York: Pantheon Books
 
 Gibbs, Frederick W. and Daniel J. Cohen. 2011. ["A Conversation With Data: Prospecting Victorian Words and Ideas."](http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html) In *Victorian Studies* 54/1 (Autumn 2011).
 
+Gjerdingen, Robert O., and David Perrott. "Scanning the dial: The rapid recognition of music genres." Journal of New Music Research 37, no. 2 (2008): 93-100.
+
 Meyer, Leonard. 1997. [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) Chicago: University of Chicago Press.
 
 Shaffer, Kris. ["Harmony in pop/rock music"](http://kris.shaffermusic.com/musicianship/popRockHarmony.html)  
@@ -43,6 +45,8 @@ Shaffer, Kris. 2012. ["Averages, clusters, and hidden patterns."](http://kris.sh
 Shaffer, Kris. 2013. ["Harmonic syntax in corpus studies."](http://kris.shaffermusic.com/2013/01/harmonic-syntax-in-corpus-studies/) January 12, 2013.
 
 Shaffer, Kris. 2014. ["What Is Music Theory?"](http://www.hybridpedagogy.com/page-two/music-theory/) In *Hybrid Pedagogy*, "Page Two" blog. March 1, 2014.
+
+Smith, Jordan Bennett Louis, John Ashley Burgoyne, Ichiro Fujinaga, David De Roure, and J. Stephen Downie. 2011. "Design and creation of a large-scale database of structural annotations." In ISMIR, pp. 555-560.
 
 Stommel, Jesse. 2013. ["The Digital Humanities Is About Breaking Stuff."](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/) In *Hybrid Pedagogy*. September 2, 2013.
 
