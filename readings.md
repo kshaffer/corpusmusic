@@ -28,11 +28,13 @@ Burgoyne, John Ashley. 2011. "Stochastic Processes & Database-Driven Musicology.
 
 De Clercq, Trevor and David Temperley. 2011. ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X) In *Popular Music* 30/1, pp. 47–70.
 
+Everett, Walter. 2004. ["Making Sense of Rock's Tonal Systems."](http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html) In *Music Theory Online* 10/4.
+
 Foucault, Michel. 1972. *The Archaeology of Knowledge.* New York: Pantheon Books.
 
 Gibbs, Frederick W. and Daniel J. Cohen. 2011. ["A Conversation With Data: Prospecting Victorian Words and Ideas."](http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html) In *Victorian Studies* 54/1 (Autumn 2011).
 
-Gjerdingen, Robert O., and David Perrott. "Scanning the dial: The rapid recognition of music genres." Journal of New Music Research 37, no. 2 (2008): 93-100.
+Gjerdingen, Robert O., and David Perrott. ["Scanning the dial: The rapid recognition of music genres."](http://www.tandfonline.com/doi/abs/10.1080/.U3Qo5V7sKbg) Journal of New Music Research 37, no. 2 (2008): 93-100.
 
 Meyer, Leonard. 1997. [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) Chicago: University of Chicago Press.
 
@@ -46,14 +48,13 @@ Shaffer, Kris. 2013. ["Harmonic syntax in corpus studies."](http://kris.shafferm
 
 Shaffer, Kris. 2014. ["What Is Music Theory?"](http://www.hybridpedagogy.com/page-two/music-theory/) In *Hybrid Pedagogy*, "Page Two" blog. March 1, 2014.
 
-Smith, Jordan Bennett Louis, John Ashley Burgoyne, Ichiro Fujinaga, David De Roure, and J. Stephen Downie. 2011. "Design and creation of a large-scale database of structural annotations." In ISMIR, pp. 555-560.
+Smith, Jordan Bennett Louis, John Ashley Burgoyne, Ichiro Fujinaga, David De Roure, and J. Stephen Downie. 2011. ["Design and creation of a large-scale database of structural annotations."](http://www.mirlab.org/conference_papers/International_Conference/ISMIR%202011/papers/PS4-14.pdf) In *ISMIR*, pp. 555-560.
 
 Stommel, Jesse. 2013. ["The Digital Humanities Is About Breaking Stuff."](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/) In *Hybrid Pedagogy*. September 2, 2013.
 
 Underwood, Ted. 2012. ["How Not to Do Things With Words."](http://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/) Personal blog. August 25, 2012.
 
-Yim, Gary. 2012. ["Affordant Harmony in Popular Music:
-Do Physical Attributes of the Guitar Influence Chord Sequences?"](http://icmpc-escom2012.web.auth.gr/sites/default/files/papers/1156_Proc.pdf) In *Proceedings of the 12th International Conference on Music Perception and Cognition and the 8th Triennial Conference of the European Society fo the Cognitive Sciences of Music., July 23–28, 2012.
+Yim, Gary. 2012. ["Affordant Harmony in Popular Music: Do Physical Attributes of the Guitar Influence Chord Sequences?"](http://icmpc-escom2012.web.auth.gr/sites/default/files/papers/1156_Proc.pdf) In *Proceedings of the 12th International Conference on Music Perception and Cognition and the 8th Triennial Conference of the European Society fo the Cognitive Sciences of Music., July 23–28, 2012.
 
 ## Videos ##
 
