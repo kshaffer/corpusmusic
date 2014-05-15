@@ -48,7 +48,7 @@ Shaffer, Kris. 2013. ["Harmonic syntax in corpus studies."](http://kris.shafferm
 
 Shaffer, Kris. 2014. ["What Is Music Theory?"](http://www.hybridpedagogy.com/page-two/music-theory/) In *Hybrid Pedagogy*, "Page Two" blog. March 1, 2014.
 
-Smith, Jordan Bennett Louis, John Ashley Burgoyne, Ichiro Fujinaga, David De Roure, and J. Stephen Downie. 2011. ["Design and creation of a large-scale database of structural annotations."](http://www.mirlab.org/conference_papers/International_Conference/ISMIR%202011/papers/PS4-14.pdf) In *ISMIR*, pp. 555-560.
+Smith, Jordan Bennett Louis, John Ashley Burgoyne, Ichiro Fujinaga, David De Roure, and J. Stephen Downie. 2011. ["Design and creation of a large-scale database of structural annotations."](http://www.music.mcgill.ca/~jordan/documents/smith2011designandcreation.pdf) In *ISMIR*, pp. 555-560.
 
 Stommel, Jesse. 2013. ["The Digital Humanities Is About Breaking Stuff."](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/) In *Hybrid Pedagogy*. September 2, 2013.
 
