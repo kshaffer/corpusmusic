@@ -91,7 +91,7 @@ Compare Meyer & Foucault, and critique de Clercq/Temperley in light of them
 
 First, come up with some questions or comments you have for our discussion with Trevor de Clercq.
 
-Then, read Christopher White's gloss on hidden Markov modeling in music studies (link forthcoming). Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing).
+Then, read Christopher White's [gloss on hidden Markov modeling in music studies](WhiteQuinnBeginningDRAFT.pdf). Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing).
 
 
 #### In class ####
@@ -105,7 +105,16 @@ Start thinking about collaborative project
 
 #### Prep ####
 
-Read Chapters 4–5 of Ashley Burgoyne's dissertation (exact excerpt & link TBA). Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing).
+Read the following pages of Chapters 4–5 of Ashley Burgoyne's dissertation, ["Stochastic processes and database-driven musicology"](http://oatd.org/oatd/record?record=oai%5C:digitool.library.mcgill.ca%5C:107704):
+
+- p. 123 through the end of the first partial paragraph on p. 146  
+- last paragraph of p. 147 through the end of the first partial paragraph on p. 148  
+- last paragraph of p. 152 through Table 4.3 on p. 153  
+- first full paragraph on p. 155 through the end of the first partial paragraph on p. 164  
+- last partial paragraph on p. 172 through the first partial paragraph on p. 179  
+- last paragraph of p. 185 through p. 191
+
+Tweet questions and discussions about the materials with the #corpusmusic hashtag. Collaborate on [Google Doc response](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing).
 
 Then come up with some ideas for our collaborative group project based on this reading and our previous readings and discussions.    
 

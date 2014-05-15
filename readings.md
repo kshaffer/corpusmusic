@@ -24,7 +24,7 @@ Ted Underwood: [@Ted_Underwood](http://twitter.com/ted_underwood)
 
 ## Readings ##
 
-Burgoyne, John Ashley. 2011. "Stochastic Processes & Database-Driven Musicology." Ph.D. diss., McGill University.
+Burgoyne, John Ashley. 2011. ["Stochastic Processes & Database-Driven Musicology."](http://oatd.org/oatd/record?record=oai%5C:digitool.library.mcgill.ca%5C:107704) Ph.D. diss., McGill University.
 
 De Clercq, Trevor and David Temperley. 2011. ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X) In *Popular Music* 30/1, pp. 47–70.
 
@@ -53,6 +53,8 @@ Smith, Jordan Bennett Louis, John Ashley Burgoyne, Ichiro Fujinaga, David De Rou
 Stommel, Jesse. 2013. ["The Digital Humanities Is About Breaking Stuff."](http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/) In *Hybrid Pedagogy*. September 2, 2013.
 
 Underwood, Ted. 2012. ["How Not to Do Things With Words."](http://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/) Personal blog. August 25, 2012.
+
+White, Christopher and Ian Quinn. 2014. [Draft of primer on hidden Markov modeling in music.](WhiteQuinnBeginningDRAFT.pdf)
 
 Yim, Gary. 2012. ["Affordant Harmony in Popular Music: Do Physical Attributes of the Guitar Influence Chord Sequences?"](http://icmpc-escom2012.web.auth.gr/sites/default/files/papers/1156_Proc.pdf) In *Proceedings of the 12th International Conference on Music Perception and Cognition and the 8th Triennial Conference of the European Society fo the Cognitive Sciences of Music., July 23–28, 2012.
 
