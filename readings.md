@@ -24,6 +24,8 @@ Ted Underwood: [@Ted_Underwood](http://twitter.com/ted_underwood)
 
 ## Readings ##
 
+Burgoyne, John Ashley. 2011. "Stochastic Processes & Database-Driven Musicology." Ph.D. diss., McGill University.
+
 De Clercq, Trevor and David Temperley. 2011. ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X) In *Popular Music* 30/1, pp. 47–70.
 
 Foucault, Michel. 1972. *The Archaeology of Knowledge.* New York: Pantheon Books.
