@@ -34,7 +34,7 @@ Foucault, Michel. 1972. *The Archaeology of Knowledge.* New York: Pantheon Books
 
 Gibbs, Frederick W. and Daniel J. Cohen. 2011. ["A Conversation With Data: Prospecting Victorian Words and Ideas."](http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html) In *Victorian Studies* 54/1 (Autumn 2011).
 
-Gjerdingen, Robert O., and David Perrott. ["Scanning the dial: The rapid recognition of music genres."](http://www.tandfonline.com/doi/abs/10.1080/.U3Qo5V7sKbg) Journal of New Music Research 37, no. 2 (2008): 93-100.
+Gjerdingen, Robert O., and David Perrott. ["Scanning the dial: The rapid recognition of music genres."](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubPapers/Scanning.pdf) Journal of New Music Research 37, no. 2 (2008): 93-100.
 
 Meyer, Leonard. 1997. [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) Chicago: University of Chicago Press.
 
