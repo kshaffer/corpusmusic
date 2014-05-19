@@ -123,15 +123,33 @@ Then come up with some ideas for our collaborative group project based on this r
 Discuss Burgoyne  
 Collaborate on project planning
 
-<!--
+<br/>
 ## Day 7: Tuesday, May 20 ##
 
+#### Prep ####
 
+Add to the Collaboratve Project GDoc begun in class. Include new project ideas, or added details and practical implications for the ideas already present.
 
+#### In-class ####
+
+Finalize project plan  
+Align project tasks with course objectives  
+Begin assigning tasks and creating course assessment contracts  
+Setup individual GitHub accounts and membership in the [corpusmusic](http://github.com/corpusmusic) organization.
+
+<br/>
 ## Day 8: Wednesday, May 21 ##
 
+#### Prep ####
 
+TBD, based on project plan and individual contracts
 
+#### In-class ####
+
+TBD, based on project plan and individual contracts
+
+<!-->
+<br/>
 ## Day 9: Thursday, May 22 ##
 
 
