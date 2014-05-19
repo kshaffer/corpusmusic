@@ -50,6 +50,8 @@ Shaffer, Kris. 2012. ["Averages, clusters, and hidden patterns."](http://kris.sh
 
 Shaffer, Kris. 2013. ["Harmonic syntax in corpus studies."](http://kris.shaffermusic.com/2013/01/harmonic-syntax-in-corpus-studies/) January 12, 2013.
 
+Shaffer, Kris. 2013. ["Push, Pull, Fork: GitHub for Academics."](http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/) May 26, 2013.
+
 Shaffer, Kris. 2014. ["What Is Music Theory?"](http://www.hybridpedagogy.com/page-two/music-theory/) In *Hybrid Pedagogy*, "Page Two" blog. March 1, 2014.
 
 Smith, Jordan Bennett Louis, John Ashley Burgoyne, Ichiro Fujinaga, David De Roure, and J. Stephen Downie. 2011. ["Design and creation of a large-scale database of structural annotations."](http://www.music.mcgill.ca/~jordan/documents/smith2011designandcreation.pdf) In *ISMIR*, pp. 555-560.
