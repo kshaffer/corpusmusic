@@ -142,18 +142,26 @@ Setup individual GitHub accounts and membership in the [corpusmusic](http://gith
 
 #### Prep ####
 
-TBD, based on project plan and individual contracts
+Review our collaborative project document in Google Drive  
+Make a copy of one of the sample course contracts I put in our shared folder, fill in your own proposed details, and share with me by 8am.  
+Signup for a GitHub account, if you haven't done so already, and send Kris your username (via Twitter is fine).
 
 #### In-class ####
 
-TBD, based on project plan and individual contracts
+Intro to git/GitHub.  
+Decide on our first milestone and its requisite components.  
+Assign tasks to individuals and/or small work groups to begin the project.  
+Start working.
 
 <!--
 <br/>
 ## Day 9: Thursday, May 22 ##
 
+#### Prep ####
 
+#### In-class ####
 
+<br/>
 ## Day 10: Friday, May 23 ##
 
 
