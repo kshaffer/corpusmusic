@@ -17,6 +17,8 @@ Chris White: [@chriswmwhite](http://twitter.com/chriswmwhite)
 ## Resources ##
 
 [Class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing)  
+[CorpusMusic group on GitHub](http://github.com/corpusmusic)  
+[Python Hidden Markov Model](http://www.cs.colostate.edu/~hamiltom/code.html) - Michael Hamilton, Colorado State University  
 [The McGill Billboard Project](http://ddmal.music.mcgill.ca/billboard) - a large data set of harmonic annotations of songs from several decades of the Billboard Top 100 list.  
 ["A Corpus Study of Rock Music"](http://theory.esm.rochester.edu/rock_corpus/) - David Temperley and Trevor de Clercq's data and programs for analyzing the harmonic progressions in a corpus of 200 songs from Rolling Stone magazine's "Greatest [Rock] Songs of All Time."  
 [The Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/) - "a freely-available collection of audio features and metadata for a million contemporary popular music tracks" (Columbia Univ.).  
