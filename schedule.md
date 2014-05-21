@@ -153,19 +153,32 @@ Decide on our first milestone and its requisite components.
 Assign tasks to individuals and/or small work groups to begin the project.  
 Start working.
 
-<!--
 <br/>
 ## Day 9: Thursday, May 22 ##
 
 #### Prep ####
 
+Those new to GitHub can check out my article ["Push, Pull, Fork: GitHub for Academics"](http://www.hybridpedagogy.com/journal/push-pull-fork-github-for-academics/) which contains a video, and follow some of the links, as necessary.
+
 #### In-class ####
+
+No live meeting. Work in your groups with the goal of presenting *some* finished work and a status report on Friday. Be sure to post code and data to the corpusmusic group on GitHub. When working together online, use open channels like Twitter and GitHub, or coordinate using our Google Drive folder so that others in the class (and I) can follow and, where appropriate, join in.
 
 <br/>
 ## Day 10: Friday, May 23 ##
 
+#### Prep ####
 
+Group work.
 
+#### In-class ####
+
+Present status updates and finished work.  
+10:30 - discuss the music encoding conference with Dan Shanahan.  
+Plan the next stage of work.
+
+<!--
+<br/>
 ## Day 11: Tuesday, May 27 ##
 
 
