@@ -177,16 +177,20 @@ Present status updates and finished work.
 10:30 - discuss the music encoding conference with Dan Shanahan.  
 Plan the next stage of work.
 
-<!--
+
 <br/>
 ## Day 11: Tuesday, May 27 ##
 
+Report on project progress, solicit feedback.  
+Project work.
 
-
+<br/>
 ## Day 12: Wednesday, May 28 ##
 
+Report (near) final results of project work.  
+Plan final stage of written/web presentation of findings.
 
-
+<!--
 ## Day 13: Thursday, May 29 ##
 
 
