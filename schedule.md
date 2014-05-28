@@ -190,13 +190,31 @@ Project work.
 Report (near) final results of project work.  
 Plan final stage of written/web presentation of findings.
 
-<!--
+<br/>
 ## Day 13: Thursday, May 29 ##
 
+#### Prep ####
+
+Update course contracts with the following:  
+- links to or descriptions of work you have already completed.  
+- updates on what you plan to do (if necessary) to demonstrate the knowledge required to meet the four main course objectives.  
+Complete or fine-tune any remaining computational or analytical work.  
+Draft your write-up(s) for our publis website. Make them Google Docs, and share them in the "WRITEUPS" folder in our shared Google Drive folder.
+
+#### In-class ####
+
+Presentations of any new findings.  
+Peer-review of write-ups.
 
 
 ## Day 14: Friday, May 30 ##
 
+#### Prep ####
 
+Complete any outstanding revisions of code or write-ups, and make sure everything has been pushed to GitHub or posted in Google Drive.  
+Update course contracts.
 
--->
+#### In-class ####
+
+Final peer-review, uploading, and discussion of writings.  
+Final course contract updates.
