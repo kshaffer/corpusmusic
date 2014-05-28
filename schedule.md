@@ -196,6 +196,7 @@ Plan final stage of written/web presentation of findings.
 #### Prep ####
 
 Update course contracts with the following:  
+
 - links to or descriptions of work you have already completed.  
 - updates on what you plan to do (if necessary) to demonstrate the knowledge required to meet the four main course objectives.  
 
