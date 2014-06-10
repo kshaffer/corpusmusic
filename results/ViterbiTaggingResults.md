@@ -7,7 +7,6 @@ author: Aaron Davis
 # {{ page.title }} #
 ## by {{ page.author }} ##
 
-<hr/>
 
 ## Overview ##
 
