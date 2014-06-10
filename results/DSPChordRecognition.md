@@ -47,7 +47,8 @@ As we progressed through the DSP experiment, we realized two major issues with o
 
 In order to accurately gauge the effectiveness of DSP, it is important to have accurate chord data to compare it with.  Since chord databases generally do not include other notes in the chord besides the basic triad, it is also important to convert the DSP output to triads that would be synonymous with those in the chord databases.  As an example, DSP might detect a D6, because the vocals are singing the 6th note on the D chord, but in reality it is still a D chord and would show in any chord sheet as a D.  What to remove and when can be a bit tricky since it can also be a D6 chord as well.  There are other problems, such as melodies triggering chord changes in the DSP algorithm, which would affect the time data on chord changes.  Perhaps a DSP algorithm that can detect changes in timbre and can be able to differentiate between melodies and chords could fix this problem. 
 
-FMOD Links:
+### FMOD Links ###
+
 [http://katyscode.wordpress.com/2013/01/16/cutting-your-teeth-on-fmod-part-4-frequency-analysis-graphic-equalizer-beat-detection-and-bpm-estimation/](http://www.google.com/url?q=http%3A%2F%2Fkatyscode.wordpress.com%2F2013%2F01%2F16%2Fcutting-your-teeth-on-fmod-part-4-frequency-analysis-graphic-equalizer-beat-detection-and-bpm-estimation%2F&sa=D&sntz=1&usg=AFQjCNFaNeGRBWorMorIw95WKagnlxAuaw)
 
 ### Numpy Links ###
