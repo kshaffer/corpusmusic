@@ -28,7 +28,7 @@ In the example above, the first four lines correspond to general information abo
 The parser churns out a csv file containing a line of data for each chord in all the songs parsed. Each line in the csv file was formatted like so:
 
 | Song name | Form function | Original chord | Roman numeral | Chord quality | Current bar in phrase | Total bars in phrase | Arrow (bool) |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | | | | | | | | | |
 {: rules="groups"}
 
