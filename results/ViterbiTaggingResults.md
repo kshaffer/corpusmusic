@@ -7,6 +7,8 @@ author: Aaron Davis
 # {{ page.title }} #
 ## by {{ page.author }} ##
 
+<hr/>
+
 ## Overview ##
 
 I asked the question, “Given a sequence of harmonic roots (roman numerals), can we automatically determine what formal module these roots belong to?” The question has two sides. First, is there enough of a relationship between harmony and form to make this question answerable? And second, which computational methods can be used to determine formal elements from the chord roots?
