@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automated chord recognition using Machine Learning techniques (Part 1)
+title: Automated chord recognition using Machine Learning techniques, Part 1
 author: Esther Vasiete
 ---
 
