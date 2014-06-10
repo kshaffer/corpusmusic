@@ -14,10 +14,10 @@ In order to answer the question, “what harmonic practices are present in pop/r
 
 Each file in the billboard corpus contains musical annotations for a song. they hold information on the song name, artist, metre, chords and their qualities, among other things. Just as an example, the beginning of The Beatles’ Love Me Do file (including the intro) looks like so:
 
-    \# title: Love Me Do  
-    \# artist: Beatles  
-    \# metre: 4/4  
-    \# tonic: G  
+    # title: Love Me Do  
+    # artist: Beatles  
+    # metre: 4/4  
+    # tonic: G  
     0.000000000 silence  
     0.417959183 A, intro, | G:maj | C:maj | G:maj | C:maj |, (harmonica  
     7.010816326 | G:maj | C:maj | G:maj | G:maj |, harmonica)
