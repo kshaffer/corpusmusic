@@ -30,7 +30,7 @@ The parser churns out a csv file containing a line of data for each chord in all
 
 | Song name | Form function | Original chord | Roman numeral | Chord quality | Current bar in phrase | Total bars in phrase | Arrow (bool) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | | | | | | | |
+| | | | | | | | |
 {: rules="groups"}
 
 
