@@ -30,7 +30,7 @@ The parser churns out a csv file containing a line of data for each chord in all
 | Song name | Form function | Original chord | Roman numeral | Chord quality | Current bar in phrase | Total bars in phrase | Arrow (bool) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | | | | | | | | | |
-
+{: rules="groups"}
 
 
 So, for example, taking the beginning of Love Me Do’s data as the input, the parser would return this output:
@@ -45,6 +45,7 @@ So, for example, taking the beginning of Love Me Do’s data as the input, the p
 | LoveMeDo | intro | A | C:maj | IV | maj | 2 | 4 | 0 |
 | LoveMeDo | intro | A | G:maj | I | maj | 3 | 4 | 0 |
 | LoveMeDo | intro | A | C:maj | IV | maj | 4 | 4 | 0 |
+{: rules="groups"}
 
 ## Parsing choices ##
 
