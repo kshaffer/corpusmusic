@@ -5,6 +5,7 @@ author: Andrew Mahan & Diego Escalante
 ---
 
 # {{ page.title }} #
+
 ## by {{ page.author }} ##
 
 In order to answer the question, “what harmonic practices are present in pop/rock represented by the McGill Billboard corpus?” the data from the corpus needed to be parsed. Essentially, before the data could be analyzed, it was necessary to sift through it, taking what is useful out of the nearly thousand files accessible to us, and placing that useful information into a neat and organized CSV file (a file type that stores tabular data; think Excel). Our team was tasked to create this parser.

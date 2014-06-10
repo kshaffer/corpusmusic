@@ -5,6 +5,7 @@ author: Aaron Davis
 ---
 
 # {{ page.title }} #
+
 ## by {{ page.author }} ##
 
 
