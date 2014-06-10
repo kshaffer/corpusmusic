@@ -28,7 +28,7 @@ In the example above, the first four lines correspond to general information abo
 The parser churns out a csv file containing a line of data for each chord in all the songs parsed. Each line in the csv file was formatted like so:
 
 | Song name | Form function | Original chord | Roman numeral | Chord quality | Current bar in phrase | Total bars in phrase | Arrow (bool) |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | | | | | | | | | |
 
 
@@ -36,7 +36,7 @@ The parser churns out a csv file containing a line of data for each chord in all
 So, for example, taking the beginning of Love Me Do’s data as the input, the parser would return this output:
 
 | Song name | Form function | Original chord | Roman numeral | Chord quality | Current bar in phrase | Total bars in phrase | Arrow (bool) |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | LoveMeDo | intro | A | G:maj | I | maj | 1 | 4 | 0 |
 | LoveMeDo | intro | A | C:maj | IV | maj | 2 | 4 | 0 |
 | LoveMeDo | intro | A | G:maj | I | maj | 3 | 4 | 0 |
