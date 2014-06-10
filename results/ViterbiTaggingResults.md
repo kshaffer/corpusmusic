@@ -17,9 +17,9 @@ I asked the question, “Given a sequence of harmonic roots (roman numerals), ca
 
 I decided to try using a hidden Markov model (HMM) with the Viterbi algorithm. The Viterbi algorithm answers the question, “Given a sequence of observed states, can we automatically detect a corresponding sequence of ‘hidden’ states?” In this case, the observed states were the harmonic roots, and the hidden states were the formal modules (verse, chorus, etc.). The Viterbi algorithm requires two probability tables, the transition probabilities, and the emission probabilities.
 
-The transition probabilities indicate the probability that a given hidden state (in this case, formal module) will follow another. Mathematically, this is Pr( hidden\_state\_i | hidden\_state\_i-1 ). An example is Pr( verse | chorus ), or what is the probability that a verse will follow a chorus.
+The transition probabilities indicate the probability that a given hidden state (in this case, formal module) will follow another. Mathematically, this is Pr( hidden\_state\_i \| hidden\_state\_i-1 ). An example is Pr( verse \| chorus ), or what is the probability that a verse will follow a chorus.
 
-The emission probabilities indicate the probability that a certain observed state will be produced by a given hidden state. Mathematically, this is Pr( observered\_state\_i | hidden\_state\_i ). An example is Pr( II | verse ), or the probability that a II chord will be “emitted” from a verse hidden state.
+The emission probabilities indicate the probability that a certain observed state will be produced by a given hidden state. Mathematically, this is Pr( observered\_state\_i \| hidden\_state\_i ). An example is Pr( II \| verse ), or the probability that a II chord will be “emitted” from a verse hidden state.
 
 Both of these probability tables are calculated based on the maximum likelihood estimates from the McGill Billboard corpus.
 
