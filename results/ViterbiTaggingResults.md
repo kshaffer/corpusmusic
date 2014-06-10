@@ -4,8 +4,8 @@ title: Viterbi Tagging Results
 author: Aaron Davis
 ---
 
-# {{ page.title }}  
-{{ page.author }} #
+# {{ page.title }} #
+## by {{ page.author }} ##
 
 ## Overview ##
 
