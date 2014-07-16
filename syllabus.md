@@ -44,15 +44,14 @@ Possible projects include ...
 
 Because the course is vertically integrated and interdisciplinary, assessment of student work will use *contract grading*, tailored to individual students' levels (undergraduate or graduate) and disciplines.
 
-Assessment will take place in reference to five conceptual areas:
+Assessment will take place in reference to four conceptual areas:
 
 * Musical theories of harmony and form  
-* Recognition of musical structures by ear (transcription/analysis of recordings)  
 * Computational analysis/digital humanities research methods  
 * Online research collaboration  
 * Writing about music (for a popular audience)
 
-To receive a C in the course, a student must demonstrate *basic working knowledge/skills* in each of the five following conceptual areas through their work on the collaborative class project. To receive a B, a student must also demonstrate *mastery* of two. To receive an A, mastery of three.
+To receive a C in the course, a student must demonstrate *basic working knowledge/skills* in each of the four following conceptual areas through their work on the collaborative class project. To receive a B, a student must also demonstrate *mastery* of one. To receive an A, mastery of two.
 
 All students will propose a course contract at the beginning of the second week, after the collaborative research project has been decided. (Model contracts will be provided in advance.) This contract will articulate the grade desired and layout a work plan that is appropriate for their interests, field, level (grad/undergrad), and desired grade. Once approved by the instructor, these contracts will bind students to the work laid out. However, amendments to the contracts, if necessary, can be requested in writing well in advance of the relevant course deadlines. Students who fail to meet the requirements of their contract will receive a C if core requirements are met, or a D or F, if core requirements are not met. Students who meet the requirements of their contract will receive the grade listed on the contract.
 
