@@ -4,6 +4,8 @@ title: Course policies
 author: Kris Shaffer
 ---
 
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./syllabus.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./schedule.html">schedule</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./readings.html">readings & resources</a></div><br/>
+
 # {{ page.title }} #
 
 In general, be professional, take responsibility for your own learning and musical development, and follow all university policies, and you will be fine. See below for some specific policies (most of which are *university* policies, not instructor policies).

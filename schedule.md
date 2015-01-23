@@ -4,11 +4,14 @@ title: Schedule
 author: Kris Shaffer
 ---
 
+<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./syllabus.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./schedule.html">schedule</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./readings.html">readings & resources</a></div><br/>
+
 # {{ page.title }} #
 
 *Please note that this schedule is suject to change. (And open to pull requests.) Class progress through early materials, and the possibility of "guests" (via Skype and/or Twitter) may warrant a change in the schedule or assigned work.*
 
 <br/>
+
 ## Day 1: Monday May 12 ##
 
 #### Prep ####
@@ -26,6 +29,7 @@ Triads in pop/rock music
 Ted Underwood, ["How Not to Do Things With Words"](http://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/)
 
 <br/>
+
 ## Day 2: Tuesday, May 13 ##
 
 #### Prep ####
@@ -44,6 +48,7 @@ Digital + Humanities = Digital Humanities? (Gibbs/Cohen, Stommel)
 Creating a set of guidelines (a manifesto?) for computational musicology research
 
 <br/>
+
 ## Day 3: Wednesday, May 14 (UPDATED) ##
 
 #### Prep ####
@@ -65,6 +70,7 @@ Harmonic schemata (blues, doo-wop, VI–IV-I-V, etc.)
 de Clercq/Temperley, ["A corpus analysis of rock harmony."](http://dx.doi.org/10.1017/S026114301000067X)
 
 <br/>
+
 ## Day 4: Thursday, May 15 ##
 
 #### Prep ####
@@ -85,6 +91,7 @@ Discuss Foucault & implications for computational musicology
 Compare Meyer & Foucault, and critique de Clercq/Temperley in light of them
 
 <br/>
+
 ## Day 5: Friday, May 16 ##
 
 #### Prep ####
@@ -101,6 +108,7 @@ Discussion with Chris White (via Skype)
 Start thinking about collaborative project
 
 <br/>
+
 ## Day 6: Monday, May 19 ##
 
 #### Prep ####
@@ -124,6 +132,7 @@ Discuss Burgoyne
 Collaborate on project planning
 
 <br/>
+
 ## Day 7: Tuesday, May 20 ##
 
 #### Prep ####
@@ -138,6 +147,7 @@ Begin assigning tasks and creating course assessment contracts
 Setup individual GitHub accounts and membership in the [corpusmusic](http://github.com/corpusmusic) organization.
 
 <br/>
+
 ## Day 8: Wednesday, May 21 ##
 
 #### Prep ####
@@ -154,6 +164,7 @@ Assign tasks to individuals and/or small work groups to begin the project.
 Start working.
 
 <br/>
+
 ## Day 9: Thursday, May 22 ##
 
 #### Prep ####
@@ -165,6 +176,7 @@ Those new to GitHub can check out my article ["Push, Pull, Fork: GitHub for Acad
 No live meeting. Work in your groups with the goal of presenting *some* finished work and a status report on Friday. Be sure to post code and data to the corpusmusic group on GitHub. When working together online, use open channels like Twitter and GitHub, or coordinate using our Google Drive folder so that others in the class (and I) can follow and, where appropriate, join in.
 
 <br/>
+
 ## Day 10: Friday, May 23 ##
 
 #### Prep ####
@@ -179,18 +191,21 @@ Plan the next stage of work.
 
 
 <br/>
+
 ## Day 11: Tuesday, May 27 ##
 
 Report on project progress, solicit feedback.  
 Project work.
 
 <br/>
+
 ## Day 12: Wednesday, May 28 ##
 
 Report (near) final results of project work.  
 Plan final stage of written/web presentation of findings.
 
 <br/>
+
 ## Day 13: Thursday, May 29 ##
 
 #### Prep ####
