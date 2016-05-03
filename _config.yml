@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://corpusmusic.shaffermusic.com
-title: Harmony and Form in Pop/Rock Music&#58; A Computational Approach, CU–Boulder, May 2014
-subtitle: 
+title: Computational Music Analysis
+subtitle: "CU–Boulder, May 2016"
 author: Kris Shaffer
 simple_search: http://google.com/search
 description: 
@@ -29,3 +29,9 @@ email: kris.shaffer@gmail.com
 baseurl: http://corpusmusic.shaffermusic.com
 
 markdown: kramdown
+
+social:
+  - title: twitter
+    url: https://twitter.com/krisshaffer
+  - title: github
+    url: https://github.com/corpusmusic
