@@ -2,10 +2,10 @@
 layout: page
 title: Getting Started
 subTitle: "Computational Music Analysis, CU–Boulder, May 2016"
-image: drain.jpg
+image: guitarBand.jpg
 ---
 
-<a href="/img/twitterBio.jpg"><img src="/img/twitterBio-small.jpg" style="float: right; padding-left: 12px" alt="bio picture of Kris Shaffer, Ph.D."/></a>Welcome to Computational Music Analysis, a joint offering of the Department of Music Theory and the Department of Computer Science at CU–Boulder! 
+<a href="/img/twitterBio.jpg"><img src="/img/twitterBio-small.jpg" style="float: right; padding-left: 12px" alt="bio picture of Kris Shaffer, Ph.D."/></a>Welcome to Computational Music Analysis, a joint offering of the Department of Music Theory and the Department of Computer Science at CU–Boulder!
 
 ***...details to be added...***
 

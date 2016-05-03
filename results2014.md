@@ -2,7 +2,7 @@
 layout: page
 title: "Project results (2014)"
 subTitle: "Computational Music Analysis, CU–Boulder, May 2016"
-image: drain.jpg
+image: homework.jpg
 ---
 
 *Harmony and Form in Pop/Rock Music* (the previous version of *Computational Music Analysis*) was a hybrid (in-person and online), interdisciplinary, vertically integrated (faculty, graduate students, and undergraduate students working together), project-based course.

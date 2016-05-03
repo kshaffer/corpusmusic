@@ -3,6 +3,7 @@ layout: page
 title: Syllabus
 subTitle: "Computational Music Analysis, CU–Boulder, May 2016"
 author: Kris Shaffer
+image: path.jpg
 ---
 
 ## General course information ##
