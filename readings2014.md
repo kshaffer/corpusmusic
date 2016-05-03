@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Readings and resources
 author: Kris Shaffer
 ---
