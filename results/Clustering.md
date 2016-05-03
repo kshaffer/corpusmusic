@@ -24,4 +24,4 @@ Finally we ran this output through a script to calculate 95% confidence interval
 
 With just a cursory look at the end product, we are able to see songs clustered into groups with similar styles/genres and more importantly well-defined musical progressions. Further analysis of these clusters should yield very interesting results, unfortunately we ran out of time to complete this analysis.
 
-See Kyle Rooney's post on [Understanding Cluster Data]({{ root_url }}/results/UnderstandingClusterData.html) for more information on interpreting the tables that resulted from this analysis.
+See Kyle Rooney's post on [Understanding Cluster Data]({{ site.url }}/results/UnderstandingClusterData.html) for more information on interpreting the tables that resulted from this analysis.
