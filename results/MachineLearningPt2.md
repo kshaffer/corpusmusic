@@ -19,12 +19,12 @@ We tried other common classification algorithms such as a neural network (NN) an
 
 Extending the experiments to a larger dataset of songs is necessary to evaluate the generalization performance for a random forest and the neural network to determine which classification algorithm is doing better. Results so far look promising but the dataset is not large enough to provide conclusion with enough confidence.
 
-![](./image04.png)
+![]({{ site.url }}/results/image04.png)
 
 **Figure 1.** LOSOCV results for k-Nearest Neighbor, Neural Network and Random Forest.
 
 Finally, we show the confusion matrix obtained from the random forest experiment in Fig. 2. Note that all the errors are induced from I put a spell on you and so further analysis of the confusion matrix shows that D chords and E chords are often confused with E minor and A minor chords mostly.
 
-![](./image05.png)
+![]({{ site.url }}/results/image05.png)
 
 **Figure 2.** Confusion matrix [Random Forest]

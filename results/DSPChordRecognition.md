@@ -23,19 +23,19 @@ Numpy and Scipy are scientific libraries for Python for performing calculations 
 Sonic Visualizer is a free program by the Queen Mary University of London.  It contains a large set of tools and visualizations for the purpose of examining the properties of a sound file.  Using the spectrogram allows the user to see the frequencies that occur at a given time.
 
 
-![](./image06.png)
+![]({{ site.url }}/results/image06.png)
 
 **Figure 1.** Spectrogram of "With or Without You," U2
 
 This tool has the enormous advantage of giving a visualization to what is being played when.  It allows non-musicians who do not have ear training to see the music and the structure of the song and make useful observations with a minimal musical vocabulary.  (Such as the chord progression of With Or Without You under assumption that the bass guitar, which is in red, is carrying the harmony of the song, Fig1).  While this was an improvement over other approaches, a plugin was soon discovered for Sonic Visualizer called NNLS Chroma and Chordino which allowed for automatic chord detection.
 
-![](./image07.png)
+![]({{ site.url }}/results/image07.png)
 
 **Figure 2.** Spectrogram of "With or Without You," U2, with “Chordino Chord Estimate” Transform
 
 Chord estimates are then performed and added as a Layer to Sonic Visualizer.  Under the File menu there is an option to “Export Annotation Layer” which will produce a file that contains the time a chord is played, fig 3. (Ensure to save as .txt or else you will get a frame number instead of a time).
 
-![](./image08.png)
+![]({{ site.url }}/results/image08.png)
 
 **Figure 3.** Output of “Export Annotation Layer” after using “Chordino Chord Estimate”
 
