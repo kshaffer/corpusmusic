@@ -10,7 +10,7 @@ author: Kyle Rooney
 
 Let’s take a look at some cluster analysis data that was ran on the McGill Billboard Corpus of songs, starting with the first cluster of 6 we can begin to see identifying results as to what songs are grouped in this cluster.
 
-| cluster1of6.csv | I | II | III | IV | V | VI | VII | bII | bIII | bV | bVI | bVII |
+|  | I | II | III | IV | V | VI | VII | bII | bIII | bV | bVI | bVII |
 |-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | I | 0.2751 | 0.0807 | 0.0329 | 0.2356 | 0.1715 | 0.1643 | 0.0055 | 0 | 0.0011 | 0 | 0.0178 | 0.0148 |
 | bII | 0.4397 | 0.0357 | 0 | 0 | 0 | 0 | 0 | 0.2223 | 0.1071 | 0.0259 | 0 | 0.1607 |
