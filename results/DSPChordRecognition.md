@@ -23,19 +23,19 @@ Numpy and Scipy are scientific libraries for Python for performing calculations 
 Sonic Visualizer is a free program by the Queen Mary University of London.  It contains a large set of tools and visualizations for the purpose of examining the properties of a sound file.  Using the spectrogram allows the user to see the frequencies that occur at a given time.
 
 
-![](image06.png)
+![](./image06.png)
 
 **Figure 1.** Spectrogram of "With or Without You," U2
 
 This tool has the enormous advantage of giving a visualization to what is being played when.  It allows non-musicians who do not have ear training to see the music and the structure of the song and make useful observations with a minimal musical vocabulary.  (Such as the chord progression of With Or Without You under assumption that the bass guitar, which is in red, is carrying the harmony of the song, Fig1).  While this was an improvement over other approaches, a plugin was soon discovered for Sonic Visualizer called NNLS Chroma and Chordino which allowed for automatic chord detection.
 
-![](image07.png)
+![](./image07.png)
 
 **Figure 2.** Spectrogram of "With or Without You," U2, with “Chordino Chord Estimate” Transform
 
 Chord estimates are then performed and added as a Layer to Sonic Visualizer.  Under the File menu there is an option to “Export Annotation Layer” which will produce a file that contains the time a chord is played, fig 3. (Ensure to save as .txt or else you will get a frame number instead of a time).
 
-![](image08.png)
+![](./image08.png)
 
 **Figure 3.** Output of “Export Annotation Layer” after using “Chordino Chord Estimate”
 
@@ -43,9 +43,9 @@ In order to conduct a preliminary estimation on the accuracy of the chords, a pa
 
 As we progressed through the DSP experiment, we realized two major issues with our results.  The first music theory issue we encountered was the output of our Chordino was not exactly matching up with the corresponding Mirex files. We have found that the Mirex files were extremely simplified, while the Chordino files were not.  The Mirex files tended to not account for chord inversions, altered chords, and extraneous chord tones.  This seems to be  a major limitation on the true chord analysis process.  To resolve this issue, we had to normalize our Chordino output to fit into the parameters of the Mirex files.  Another issue we came across was the skewed timestamps when using different filters and no filters. This was due to the vocals throwing off the Chordino program in its effort to analyze the harmony.
 
- 
 
-In order to accurately gauge the effectiveness of DSP, it is important to have accurate chord data to compare it with.  Since chord databases generally do not include other notes in the chord besides the basic triad, it is also important to convert the DSP output to triads that would be synonymous with those in the chord databases.  As an example, DSP might detect a D6, because the vocals are singing the 6th note on the D chord, but in reality it is still a D chord and would show in any chord sheet as a D.  What to remove and when can be a bit tricky since it can also be a D6 chord as well.  There are other problems, such as melodies triggering chord changes in the DSP algorithm, which would affect the time data on chord changes.  Perhaps a DSP algorithm that can detect changes in timbre and can be able to differentiate between melodies and chords could fix this problem. 
+
+In order to accurately gauge the effectiveness of DSP, it is important to have accurate chord data to compare it with.  Since chord databases generally do not include other notes in the chord besides the basic triad, it is also important to convert the DSP output to triads that would be synonymous with those in the chord databases.  As an example, DSP might detect a D6, because the vocals are singing the 6th note on the D chord, but in reality it is still a D chord and would show in any chord sheet as a D.  What to remove and when can be a bit tricky since it can also be a D6 chord as well.  There are other problems, such as melodies triggering chord changes in the DSP algorithm, which would affect the time data on chord changes.  Perhaps a DSP algorithm that can detect changes in timbre and can be able to differentiate between melodies and chords could fix this problem.
 
 ### FMOD Links ###
 
@@ -71,5 +71,3 @@ In order to accurately gauge the effectiveness of DSP, it is important to have a
 ### Chordino / Mirex File Parser and Comparator ###
 
 [https://github.com/corpusmusic/dsp\_chordino](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fcorpusmusic%2Fdsp_chordino&sa=D&sntz=1&usg=AFQjCNHP8eVmDuZS-2U3xMFHO44-LXzdQQ)
-
-

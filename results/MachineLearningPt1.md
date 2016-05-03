@@ -26,22 +26,22 @@ Finally, the Music Analysis Toolbox (MAT) transforms the audio signal to sone (s
 
 Once the above features have been extracted, we conducted a series of experiments for feature selection. Fig. 1 shows a graph with the average prediction accuraries for each combination of features when performing a simple k-nearest neighbor classifier. As observed, the combination of AAL and CT features provides the highest accuracy.
 
-![](image03.png)
+![](./image03.png)
 
 **Figure 1.** Average accuracy values using  a k-Nearest Neighbor classifier [Feature selection]
 
 An average prediction accuracy of 25% is really bad! What happened? In order to answer this question we present the accuracy of each leave-one-song-out cross-validation (LOSOCV) in Fig. 2.
 
-![](image02.png)
+![](./image02.png)
 
 **Figure 2.** Accuracy values per each song using LOSOCV (k-Nearest Neighbor, k = 20)
 
 U2’s "With or Without You" chords are correctly predicted 72% of the time. On the other hand, "Trampled Under Foot" chords are never correctly predicted. This occurs because the chords in "Trampled Under Foot" (mainly G minor) do not appear in the training corpus (remaining six songs). Classification algorithms can’t learn what they haven’t seen before! The accuracy values obtained are then suffering of this problem and hence are not informing us how well does the classifier perform. We then decided to compute fair prediction accuracies by only considering those chords that exists on the training set. The resulting prediction values look much better! Except for I put a spell on you, chords are correctly predicted 60% to 82% of the time in the remaining 6 songs as shown in Fig. 3. Refer to Fig. 4 for a more detailed view of chords present in the corpus used. Note that other chords are also present in some of the songs (e.g. B7) but they have been omitted as they only appear in one of them.
 
-![](image01.png)
+![](./image01.png)
 
 **Figure 3.** Fair accuracy values per each song using LOSOCV (k-Nearest Neighbor, k = 20)
 
-![](image00.png)
+![](./image00.png)
 
 **Figure 4.** Chord frequencies
