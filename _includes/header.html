@@ -43,8 +43,8 @@
 </nav>
 
 <!-- Header -->
-{% if page.image %}<div class="intro-header" style="background: url(../img/{{ page.image }}) no-repeat center center;">
-{% else %}<div class="intro-header" style="background: url(../img/strings.jpg) no-repeat center center;">
+{% if page.image %}<div class="intro-header" style="background: url({{ site.url }}/img/{{ page.image }}) no-repeat center center;">
+{% else %}<div class="intro-header" style="background: url({{ site.url }}/img/strings.jpg) no-repeat center center;">
 {% endif %}
 
     <div class="container">
