@@ -3,7 +3,7 @@ layout: page
 title: Readings and resources
 subTitle: "Computational Music Analysis, CU–Boulder, May 2016"
 author: Kris Shaffer
-image: urbanLearning.jpg
+image: books.jpg
 ---
 
 ## Resources ##
