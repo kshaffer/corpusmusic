@@ -7,7 +7,8 @@ title: Computational Music Analysis
 subtitle: "CU–Boulder, May 2016"
 author: Kris Shaffer
 simple_search: http://google.com/search
-description: 
+description:
+email: kris.shaffer@colorado.edu
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,16 +20,14 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: kris.shaffer@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-baseurl: http://corpusmusic.shaffermusic.com
-
 markdown: kramdown
+permalink: pretty
 
 social:
   - title: twitter
