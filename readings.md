@@ -45,7 +45,13 @@ Gjerdingen, Robert O., and David Perrott. ["Scanning the dial: The rapid recogni
 
 Huron, David. 2006. [*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation). MIT Press.
 
+Koh, Adeline. [A Letter to the Humanities: DH Will Not Save You](http://www.hybridpedagogy.com/journal/a-letter-to-the-humanities-dh-will-not-save-you/) In *Hybrid Pedagogy*.
+
 Meyer, Leonard. 1997. [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) Chicago: University of Chicago Press.
+
+Ramsay, Stephen. [Who's In and Who's Out](http://stephenramsay.us/text/2011/01/08/whos-in-and-whos-out/)
+
+Sample, Mark. [The digital humanities is not about building, it’s about sharing](http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/)
 
 Shaffer, Kris. ["Harmony in pop/rock music"](http://kris.shaffermusic.com/musicianship/popRockHarmony.html)  
 
