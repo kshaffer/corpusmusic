@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policies
-subTitle: "Music Theory and Aural Skills 4 (MUSC 2111 & 2131)<br/>CU–Boulder, Spring 2016<br/>Kris Shaffer, Ph.D. – coordinator"
+subTitle: "Computational Music Analysis, CU–Boulder, May 2016"
 image: control.jpg
 ---
 
@@ -9,7 +9,7 @@ In general, be professional, take responsibility for your own learning and intel
 
 ## Attendance
 
-I do not grade attendance or participation directly in my courses. Nor do I grade assignment completion, give points for "effort," accept late work, or give extra credit. Exceptions can be made for students who are diligent in their work, petition for an exception *in writing* as soon as they realize that an exception may be needed, and make a legitimate case that an exception is warranted. 
+I do not grade attendance or participation directly in my courses. Nor do I grade assignment completion, give points for "effort," accept late work, or give extra credit. Exceptions can be made for students who are diligent in their work, petition for an exception *in writing* as soon as they realize that an exception may be needed, and make a legitimate case that an exception is warranted.
 
 ## Religious observances
 
@@ -29,7 +29,7 @@ Students and faculty each have responsibility for maintaining an appropriate lea
 
 ## Discrimination and harassment
 
-The University of Colorado Boulder (CU-Boulder) is committed to maintaining a positive learning, working, and living environment. CU-Boulder will not tolerate acts of discrimination or harassment based upon Protected Classes or related retaliation against or by any employee or student. For purposes of this CU-Boulder policy, "Protected Classes" refers to race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation or political philosophy. Individuals who believe they have been discriminated against should contact the Office of Institutional Equity and Compliance (OIEC) at 303-492-2127 or the Office of Student Conduct and Conflict Resolution (OSC) at 303-492-5550. Information about the OIEC, the above referenced policies, and the campus resources available to assist individuals regarding discrimination or harassment can be found at the [OIEC website](http://www.alumniconnections.com/links/link.cgi?l=6681994&h=113523&e=UCBI-20150813152414). The [full policy on discrimination and harassment](http://www.alumniconnections.com/links/link.cgi?l=6681995&h=113523&e=UCBI-20150813152414) contains additional information. 
+The University of Colorado Boulder (CU-Boulder) is committed to maintaining a positive learning, working, and living environment. CU-Boulder will not tolerate acts of discrimination or harassment based upon Protected Classes or related retaliation against or by any employee or student. For purposes of this CU-Boulder policy, "Protected Classes" refers to race, color, national origin, sex, pregnancy, age, disability, creed, religion, sexual orientation, gender identity, gender expression, veteran status, political affiliation or political philosophy. Individuals who believe they have been discriminated against should contact the Office of Institutional Equity and Compliance (OIEC) at 303-492-2127 or the Office of Student Conduct and Conflict Resolution (OSC) at 303-492-5550. Information about the OIEC, the above referenced policies, and the campus resources available to assist individuals regarding discrimination or harassment can be found at the [OIEC website](http://www.alumniconnections.com/links/link.cgi?l=6681994&h=113523&e=UCBI-20150813152414). The [full policy on discrimination and harassment](http://www.alumniconnections.com/links/link.cgi?l=6681995&h=113523&e=UCBI-20150813152414) contains additional information.
 
 ## Honor code
 
@@ -38,8 +38,3 @@ All students of the University of Colorado at Boulder are responsible for knowin
 Please note that I received my undergraduate degree from an institution with an honor code, and I take it very seriously. That means that I will exercise a great deal of trust when I give you individual assignments, and that I will come down hard on violations of that trust. Because of the collaborative nature of many of the assignments in this course, this shouldn't be a problem as long as you are respectful of each other as you work together.
 
 *All work submitted in this class must include a written reaffirmation of the CU honor code*.
-
-
-
-
-
