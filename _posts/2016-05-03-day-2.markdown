@@ -1,6 +1,6 @@
 ---
 layout: default
-image: bletchleySmall.jpg
+image: flameArtSmall.jpg
 category: Services
 title: "May 3: Building and breaking"
 description: |
