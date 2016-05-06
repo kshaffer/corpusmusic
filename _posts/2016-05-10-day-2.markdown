@@ -2,7 +2,7 @@
 layout: default
 image: flameArtSmall.jpg
 category: Services
-title: "May 3: Building and breaking"
+title: "May 10: Building and breaking"
 description: |
   <p class="lead">Are the digital humanities about "building stuff" or "breaking stuff"? Hack or yack? big data? sharing? social justice? We'll read about and unpack these questions as we explore the nature of (and some of the debates about) the digital humanities.<br/><br/><em>Before class</em> please read/watch the following:<ul><li>Kris Shaffer, <a href="http://kris.shaffermusic.com/2015/10/what-are-the-digital-humanities/">What are the digital humanities?</a></li><li>Stephen Ramsay, <a href="http://stephenramsay.us/text/2011/01/08/whos-in-and-whos-out/">Who's In and Who's Out</a></li><li>Mark Sample, <a href="http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/">The digital humanities is not about building, it’s about sharing</a></li><li>Jesse Stommel, <a href="http://www.hybridpedagogy.com/journal/the-digital-humanities-is-about-breaking-stuff/">The Digital Humanities is About Breaking Stuff</a></li><li>Adeline Koh, <a href="http://www.hybridpedagogy.com/journal/a-letter-to-the-humanities-dh-will-not-save-you/">A Letter to the Humanities: DH Will Not Save You</a></li><li>Frederick W. Gibbs and Daniel J. Cohen, <a href="http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html">A Conversation With Data: Prospecting Victorian Words and Ideas</a></li></ul></p>
 ---

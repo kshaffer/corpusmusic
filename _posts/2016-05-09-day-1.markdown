@@ -2,7 +2,7 @@
 layout: default
 image: bletchleySmall.jpg
 category: Services
-title: "May 2: Introductions"
+title: "May 9: Introductions"
 description: |
   <p class="lead">Just what is computational musicology? How does it relate to the digital humanities? to data science? Today, we'll get a broad overview of the discipline, as well as get to know each other and some of the tools we'll be using. We'll also work through the following reading together:</p><ul><li>Ted Underwood, <a href="http://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/">How Not to Do Things With Words</a></li></ul>
 ---
