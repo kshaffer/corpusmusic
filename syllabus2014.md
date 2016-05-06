@@ -4,10 +4,6 @@ title: Syllabus
 author: Kris Shaffer
 ---
 
-<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./syllabus.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./schedule.html">schedule</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./readings.html">readings & resources</a></div><br/>
-
-# {{ page.title }} #
-
 ## General course information ##
 
 Course title: Harmony and Form in Pop/Rock Music: A Computational Approach  

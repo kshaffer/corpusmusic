@@ -8,17 +8,26 @@ image: books.jpg
 
 ## Resources ##
 
-[Class shared folder on Google Drive](https://drive.google.com/a/colorado.edu/folderview?id=0B9o4hmKNoi6cYVZvRDNsaHlqcEk&usp=sharing)  
 [CorpusMusic group on GitHub](http://github.com/corpusmusic)  
+
 [Python Hidden Markov Model](http://www.cs.colostate.edu/~hamiltom/code.html) - Michael Hamilton, Colorado State University  
+
 [The McGill Billboard Project](http://ddmal.music.mcgill.ca/billboard) - a large data set of harmonic annotations of songs from several decades of the Billboard Top 100 list.  
+
 ["A Corpus Study of Rock Music"](http://theory.esm.rochester.edu/rock_corpus/) - David Temperley and Trevor de Clercq's data and programs for analyzing the harmonic progressions in a corpus of 200 songs from Rolling Stone magazine's "Greatest [Rock] Songs of All Time."  
+
 [The Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/) - "a freely-available collection of audio features and metadata for a million contemporary popular music tracks" (Columbia Univ.).  
-[Musicianship Resources](http://kris.shaffermusic.com/musicianship) – an online "textbook" for music theory and aural skills.  
+
+[*Open Music Theory*](http://openmusictheory.com) – an online "textbook" for music theory and aural skills.  
+
 [Spotify](http://www.spotify.com).  
+
+[Spotipy](https://spotipy.readthedocs.io/en/latest/) – a lightweight Python library for the Spotify Web API.
 
 
 ## Readings ##
+
+Albrecht, Joshus and Daniel Shanahan. 2013. ["The Use of Large Corpora to Train a New Type of Key-Finding Algorithm: An Improved Treatment of the Minor Mode."](http://mp.ucpress.edu/content/31/1/59) In *Music Perception: An Interdisciplinary Journal* 31/1, 59–67.
 
 Bryson, Bethany. 1996. ["'Anything but heavy metal': Symbolic exclusion and musical dislikes"](http://www.jstor.org/stable/2096459). In *American Sociological Review* 61/5 (Oct. 1996), pp. 884–99.
 
@@ -33,6 +42,8 @@ Foucault, Michel. 1972. *The Archaeology of Knowledge.* New York: Pantheon Books
 Gibbs, Frederick W. and Daniel J. Cohen. 2011. ["A Conversation With Data: Prospecting Victorian Words and Ideas."](http://muse.jhu.edu/journals/victorian_studies/v054/54.1.gibbs.html) In *Victorian Studies* 54/1 (Autumn 2011).
 
 Gjerdingen, Robert O., and David Perrott. ["Scanning the dial: The rapid recognition of music genres."](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubPapers/Scanning.pdf) Journal of New Music Research 37, no. 2 (2008): 93-100.
+
+Huron, David. 2006. [*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation). MIT Press.
 
 Meyer, Leonard. 1997. [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) Chicago: University of Chicago Press.
 

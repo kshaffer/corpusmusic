@@ -4,11 +4,7 @@ title: Schedule
 author: Kris Shaffer
 ---
 
-<div style="text-align: center; font-size: 1.75em; font-variant: small-caps"><a href="./syllabus.html">syllabus</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./policies.html">policies</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./schedule.html">schedule</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./readings.html">readings & resources</a></div><br/>
-
-# {{ page.title }} #
-
-*Please note that this schedule is suject to change. (And open to pull requests.) Class progress through early materials, and the possibility of "guests" (via Skype and/or Twitter) may warrant a change in the schedule or assigned work.*
+*Please note that this schedule is subject to change. (And open to pull requests.) Class progress through early materials, and the possibility of "guests" (via Skype and/or Twitter) may warrant a change in the schedule or assigned work.*
 
 <br/>
 
