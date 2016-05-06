@@ -74,7 +74,7 @@ All other required class materials will be posted or linked to on the course web
 
 ## Policies ##
 
-For instructor and university policies relevant to this course, please see [this page]({{ site.url }}/policies.html).
+For instructor and university policies relevant to this course, please see [this page]({{ site.url }}/policies/).
 
 ## About this syllabus ##
 
