@@ -1,0 +1,8 @@
+---
+layout: default
+image: keysSmall.jpg
+category: Services
+title: "May 16: Classical and folk music"
+description: |
+  <p class="lead">Today, we'll focus on computational studies of classical and folk music, as well as the relationship between musical structures and musical expectations.<br/><br/><em>Before class</em> please read/watch the following, then leave a question or insight for discussion in #readingresponses on Slack:<ul><li>David Huron, <em>Sweet Anticipation: Music and the Psychology of Expectation</em>, Chapters 3–5 (in our shared folder on Google Drive)</li><li>The following posts from The Lieder Project blog:<ul><li><a href="http://liederproject.shaffermusic.com/2015/sonic-patterns">Sonic Patterns</a></li><li><a href="http://liederproject.shaffermusic.com/2015/combining-music-notation-with-ipa-text">Combining music notation with (IPA) text</a></li><li><a href="http://liederproject.shaffermusic.com/2015/finely-parsing-the-corpus">Finely parsing the corpus</a></li><li><a href="http://liederproject.shaffermusic.com/2016/visualizing-statistical-patterns-in-schuberts-song-cycle-die-schne-mllerin">Visualizing statistical patterns in Schubert's song cycle, <em>Die schöne Müllerin</em></a></li></ul></li></ul></p>
+---

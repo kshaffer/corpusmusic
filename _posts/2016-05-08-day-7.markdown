@@ -1,0 +1,8 @@
+---
+layout: default
+image: structure.jpg
+category: Services
+title: "May 17: Music21, MSD, and project decisions"
+description: |
+  <p class="lead">We finish our exploration of existing projects with an introduction to music21 and the Million Song Dataset, followed by a discussion in which we decide on our collaborative project(s).<br/><br/><em>Before class</em> please install <a href="https://www.python.org/downloads/release/python-351/">Python 3</a> and <a href="http://web.mit.edu/music21/">music21</a> on your own computers, and read/watch the following, then leave a question or insight for discussion in #readingresponses on Slack:<ul><li>Bertin-Mahieux, et al., "The Million Song Dataset" (in our shared folder on Google Drive)</li></ul></p>
+---
